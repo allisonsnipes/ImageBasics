@@ -1,0 +1,1 @@
+In this assignment I need to embed an image of your favorite place inside a paragraph.
